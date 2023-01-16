@@ -1,0 +1,239 @@
+ 
+.logo{
+    height: 40px;
+    width: 69px;
+}
+#nav-link{
+    color: black;
+}
+#id-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+}
+#id-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.3rem;
+    font-weight: 700;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+}
+.btn-main {
+    width: 15.18rem;
+      height: 3.375rem;
+      font-size: 1.2rem;
+      font-weight: 500;
+      letter-spacing: 0.56;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+    }
+section .container .row{
+    display: flex;
+    flex-direction: row;
+}
+.gradient-text{
+    background-color: red;
+    background-image: linear-gradient(92deg,#217ee6 3%,#3187d5 44%,#69a798 70%,#fcf2a6 95%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 4rem;
+    font-weight: 500;
+}
+#_FeesText {
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    font-size: 3rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+}
+#powerapp {
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    font-size: 4rem;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    text-align: right;
+    color: #000;
+}
+#powerapptext {
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: right;
+    color: #696969;
+}
+#metal{
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    font-size: 4rem;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+}
+#metaltext{
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #696969;
+}
+#emi{
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    font-size: 4rem;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    text-align: right;
+    color: #000;
+}
+#emitext{
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: right;
+    color: #696969;
+}
+#reward {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+}
+#rewardtext{
+    font-family: Manrope;
+    font-size: 1.6rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #696969;
+}
+#hum{
+    transition: .2s;
+}
+#hum:hover{
+    
+    transform: scale(1.1);
+}
+#mat{
+    transition: .2s;
+}
+#mat:hover{
+    
+    transform: scale(1.1);
+}
+#seq{
+    transition: .2s;
+}
+#seq:hover{
+    
+    transform: scale(1.1);
+}
+#investors {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+}
+#investorstext {
+    font-family: Manrope;
+    font-size: 1.6rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #696969;
+}
+.footer-main {
+    padding: 30px 0;
+    background: #0c161b;
+}
+#ears {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.188rem;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.34;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0093f7;
+}
+#newkid{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.3;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+}
+#followus{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+    color: #fcf2a6;
+}
+#metalcard{
+    width: 90%;
+}
+
